@@ -34,3 +34,4 @@ ansible/
 
 envs/dev.tfvars
 envs/prod.tfvars
+*.tfvars
