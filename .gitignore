@@ -32,3 +32,5 @@ terraform/*.tfvars.json
 # === Ansible Code ===
 ansible/
 
+envs/dev.tfvars
+envs/prod.tfvars
