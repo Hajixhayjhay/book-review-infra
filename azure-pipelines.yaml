@@ -12,7 +12,7 @@ stages:
   displayName: 'Provision Infrastructure'
   jobs:
   - job: Terraform_Apply
-    displayName: 'Terraform Apply'
+    displayName: 'Terraform apply'
     pool:
       name: 'SelfHostedPool'
     steps:
